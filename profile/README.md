@@ -21,5 +21,7 @@ This repository collects projects developed during the Winter Semester 2025/2026
 ## Links
 
 - [DMWT][dmwt] (_work in progress_)
+- [INFO][info] (wip)
 
 [dmwt]: https://github.com/copiedcopypasta/dmwt
+[info]: https://github.com/copiedcopypasta/info
