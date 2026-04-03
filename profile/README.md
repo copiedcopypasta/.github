@@ -24,4 +24,4 @@ This repository collects projects developed during the Winter Semester 2025/2026
 - [INFO][info]
 
 [dmwt]: https://github.com/copiedcopypasta/dmwt
-[info]: https://github.com/copiedcopypasta/info
+[info]: https://github.com/copiedcopypasta/pygame_towerdefense
